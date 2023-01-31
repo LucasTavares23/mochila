@@ -56,7 +56,7 @@ public class Main {
          mochila.add(item.get("id"));
 
           }
-        }
+        }//mensagem aparece na tela
         System.out.println("lista de itens: "+lista);
         System.out.println("peso atual da mochila: "+bagAtual);
         System.out.println("lista de itens na mochila: "+mochila);
