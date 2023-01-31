@@ -41,6 +41,8 @@ public class mochila {
         lista.add(item1);
         lista.add(item2);
         lista.add(item3);
+        lista.add(item4);
+        lista.add(item5);
         //Sistema de Ranking
         List<Integer> raking=new ArrayList<Integer>();
         for(Map<String,Integer>item :lista){
